@@ -8,8 +8,9 @@ class GithubTestApplicationTests {
 
     @Test
     void contextLoads() {
-        String a = "";
+        String a = "aaa";
         System.out.println(a);
+       
     }
 
 }
