@@ -9,6 +9,7 @@ class GithubTestApplicationTests {
     @Test
     void contextLoads() {
         String a = "";
+        System.out.println(a);
     }
 
 }
